@@ -1,0 +1,13 @@
+#This is my .gitignore file
+
+#ignore all .log files
+*.log
+
+#ignore all .wav files
+*.wav
+
+#ignore all .asv files
+*.asv
+
+#ignore everything in tmp folder
+/tmp/*
