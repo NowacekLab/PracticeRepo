@@ -1,3 +1,5 @@
 # This file contains some stuff that you want to access
 
 #this is a new line and i wrote it -JHW
+
+# Not really for R etc., but fine for text files
